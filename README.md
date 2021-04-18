@@ -1,5 +1,5 @@
-# hello-world
-just another repository
+# hello-world 
+new repository
 
 hello people!
-Anshika here, I'm learning programming.
+Anshika here,currently I'm learning web dev.
